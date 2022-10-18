@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543788284764-tq1g6ub0ejl9g9l6b5r0pqjpl41mv3bk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543788284764-tq1g6ub0ejl9g9l6b5r0pqjpl41mv3bk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>543788284764-seqk0hstchuj2b94ddmkhhffbmnpqqmu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkrKKWnJpW7fiWHb7EFKG1frbAO5zg5OU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543788284764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.mtro.ifsquizz</string>
+	<key>PROJECT_ID</key>
+	<string>fflutter-quizz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fflutter-quizz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543788284764:ios:c75155f77c7879ed3a1f99</string>
+</dict>
+</plist>

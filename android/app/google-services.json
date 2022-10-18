@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "543788284764",
+    "project_id": "fflutter-quizz",
+    "storage_bucket": "fflutter-quizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543788284764:android:08bc892a48591c043a1f99",
+        "android_client_info": {
+          "package_name": "fr.mtro.ifsquizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543788284764-seqk0hstchuj2b94ddmkhhffbmnpqqmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.mtro.ifsquizz",
+            "certificate_hash": "2e2a019775f52e27654ea45d73641491a55f8494"
+          }
+        },
+        {
+          "client_id": "543788284764-gmkqenfmno69ti9oeu3dde2qrp01u1fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFl-X1Xo8CTTlB1VxB_VLMEfx1KSpDAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543788284764-gmkqenfmno69ti9oeu3dde2qrp01u1fi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543788284764-tq1g6ub0ejl9g9l6b5r0pqjpl41mv3bk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.mtro.ifsquizz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
