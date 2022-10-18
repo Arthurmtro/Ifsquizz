@@ -11,6 +11,7 @@ class TopicItem extends StatelessWidget {
     return Hero(
       tag: topic.img,
       child: Card(
+        color: Theme.of(context).colorScheme.surface,
         clipBehavior: Clip.antiAlias,
         child: InkWell(
           onTap: () {

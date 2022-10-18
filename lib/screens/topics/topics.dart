@@ -23,9 +23,11 @@ class TopicScreen extends StatelessWidget {
 
             return Scaffold(
               appBar: AppBar(
-                  backgroundColor: Colors.deepPurple,
+                  // backgroundColor: Colors.deepPurple,
+                  backgroundColor: Theme.of(context).colorScheme.surface,
                   title: const Text("Topics")),
               bottomNavigationBar: const BottomNavBar(),
+              backgroundColor: Theme.of(context).colorScheme.background,
               body: GridView.count(
                 primary: false,
                 padding: const EdgeInsets.all(20.0),

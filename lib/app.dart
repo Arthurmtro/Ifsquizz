@@ -50,8 +50,9 @@ class _AppState extends State<App> {
               initialData: Report(),
               child: MaterialApp(
                 debugShowCheckedModeBanner: false,
-                darkTheme: appTheme(darkColorScheme),
-                themeMode: ThemeMode.dark,
+                theme: appTheme(lightColorScheme, context),
+                darkTheme: appTheme(darkColorScheme, context),
+                themeMode: ThemeMode.system,
                 routes: appRoutes,
               ),
             );
